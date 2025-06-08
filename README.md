@@ -23,7 +23,6 @@ Java tabanlı bu grafiksel arayüz uygulaması, kullanıcıdan alınan 8, 16 vey
 ##  Proje Dökümantasyonu
 
  Proje ile ilgili ayrıntılı açıklamalara PDF formatında aşağıdan ulaşabilirsiniz:  
-[ ProjeDokumantasyonu.pdf](https://drive.google.com/file/d/1MVur4a1YsoHcBeDjwHjpfQO0apqid0jh/view?usp=sharing
-)
+[ ProjeDokumantasyonu.pdf](https://docs.google.com/document/d/1THCNrAxtuPuHwWcb1ppikIB5gfA4YYFkx-QgyPWtrko/edit?usp=sharing)
 
 
